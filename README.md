@@ -59,7 +59,7 @@ The models were evaluated using:
 ## Files
 - `Fraud_Detection.ipynb`: Main notebook implementation
 - `Fraud Detection Report.pdf`: Full project report
-- `Fraud Detection Presentation(1).pdf`: Project presentation
+- `Fraud Detection Presentation.pdf`: Project presentation
 
 ## Conclusion
 This project shows that supervised machine learning models, especially XGBoost and Random Forest, can be effective for fraud detection when combined with proper preprocessing, suitable metrics for imbalanced data, and business-oriented evaluation.
